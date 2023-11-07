@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
- Copyright (c) 2014 Philipp Jahoda <philjay.librarysup@gmail.com>
+ Copyright (c) 2014 Philipp Jahoda <librarysup@gmail.com>
 
  Licensed under the Apache License, Version 2.0 (the "License");
  you may not use this file except in compliance with the License.
@@ -22,7 +22,7 @@
     <artifactId>MPAndroidChart</artifactId>
     <name>MPAndroidChart</name>
 	<description>A simple Android chart view/graph view library, supporting line- bar- and piecharts as well as scaling, dragging and animations</description>
-	<url>https://github.com/PhilJay/MPAndroidChart</url>
+	<url>https://github.com/tu-ngo-napa/MPAndroidChart</url>
     <packaging>apklib</packaging>
     <!--<packaging>aar</packaging>-->
 
@@ -60,7 +60,7 @@
 
 
     <issueManagement>
-        <url>https://github.com/PhilJay/MPAndroidChart/issues</url>
+        <url>https://github.com/tu-ngo-napa/MPAndroidChart/issues</url>
         <system>GitHub Issues</system>
     </issueManagement>
 
@@ -73,17 +73,17 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/PhilJay/MPAndroidChart</url>
-        <connection>scm:git:git://github.com/PhilJay/MPAndroidChart.git</connection>
-        <developerConnection>scm:git:git@github.com:PhilJay/MPAndroidChart.git</developerConnection>
+        <url>https://github.com/tu-ngo-napa/MPAndroidChart</url>
+        <connection>scm:git:git://github.com/tu-ngo-napa/MPAndroidChart.git</connection>
+        <developerConnection>scm:git:git@github.com:tu-ngo-napa/MPAndroidChart.git</developerConnection>
     </scm>
 
     <developers>
         <developer>
             <name>Philipp Jahoda</name>
-            <email>philjay.librarysup@gmail.com</email>
+            <email>tu-ngo-napa.librarysup@gmail.com</email>
             <url>http://stackoverflow.com/users/1590502/philipp-jahoda</url>
-            <id>PhilJay</id>
+            <id>tu-ngo-napa</id>
         </developer>
     </developers>
 </project>
